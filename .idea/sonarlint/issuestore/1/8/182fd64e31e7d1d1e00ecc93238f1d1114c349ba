@@ -1,0 +1,13 @@
+
+=
+java:S1872@"'Use an "instanceof" comparison instead.(„¬Õ¿
+<
+java:S1452Y"&Remove usage of generic wildcard type.(§¨òø
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(íÙìžûÿÿÿÿ
+O
+java:S16104"9Convert the abstract class "JavacTask" into an interface.(Ð‹»ž
+A
+java:S1452b"&Remove usage of generic wildcard type.(ÛŸ­ðýÿÿÿÿ
+A
+java:S1452O"&Remove usage of generic wildcard type.(œ«˜³ùÿÿÿÿ
